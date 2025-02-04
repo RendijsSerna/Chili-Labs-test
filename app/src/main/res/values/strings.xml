@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">temp</string>
+    <string name="gif_description">Description of the GIF</string>
+</resources>
